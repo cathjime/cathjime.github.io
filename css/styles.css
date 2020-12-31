@@ -4244,7 +4244,7 @@ input[type="button"].btn-block {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #bd5d38;
+  background-color: #ffff00;
 }
 
 .nav-fill > .nav-link,
@@ -4903,7 +4903,7 @@ input[type="button"].btn-block {
   padding: 0.5rem 0.75rem;
   margin-left: -1px;
   line-height: 1.25;
-  color: #bd5d38;
+  color: #ffff00;
   background-color: #fff;
   border: 1px solid #dee2e6;
 }
@@ -4932,8 +4932,8 @@ input[type="button"].btn-block {
 .page-item.active .page-link {
   z-index: 3;
   color: #fff;
-  background-color: #bd5d38;
-  border-color: #bd5d38;
+  background-color: #ffff00;
+  border-color: #ffff00;
 }
 .page-item.disabled .page-link {
   color: #6c757d;
@@ -5011,7 +5011,7 @@ a.badge:focus {
 
 .badge-primary {
   color: #fff;
-  background-color: #bd5d38;
+  background-color: #ffff00;
 }
 a.badge-primary:hover,
 a.badge-primary:focus {
@@ -5306,7 +5306,7 @@ a.badge-dark.focus {
   color: #fff;
   text-align: center;
   white-space: nowrap;
-  background-color: #bd5d38;
+  background-color: #ffff00;
   transition: width 0.6s ease;
 }
 @media (prefers-reduced-motion: reduce) {
@@ -5398,8 +5398,8 @@ a.badge-dark.focus {
 .list-group-item.active {
   z-index: 2;
   color: #fff;
-  background-color: #bd5d38;
-  border-color: #bd5d38;
+  background-color: #ffff00;
+  border-color: #ffff00;
 }
 .list-group-item + .list-group-item {
   border-top-width: 0;
@@ -6474,7 +6474,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #bd5d38 !important;
+  background-color: #ffff00 !important;
 }
 
 a.bg-primary:hover,
@@ -6610,7 +6610,7 @@ button.bg-dark:focus {
 }
 
 .border-primary {
-  border-color: #bd5d38 !important;
+  border-color: #ffff00 !important;
 }
 
 .border-secondary {
@@ -10186,7 +10186,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #bd5d38 !important;
+  color: #ffff00 !important;
 }
 
 a.text-primary:hover,
@@ -10498,7 +10498,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #bd5d38;
+  background-color: #00ff7f;
 }
 
 .dev-icons {
