@@ -2919,7 +2919,7 @@ fieldset:disabled a.btn {
 .show > .btn-outline-primary.dropdown-toggle {
   color: #fff;
   background-color: #ff1493;
-  border-color: #bd5d38;
+  border-color: #adff2f;
 }
 .btn-outline-primary:not(:disabled):not(.disabled):active:focus,
 .btn-outline-primary:not(:disabled):not(.disabled).active:focus,
@@ -3146,7 +3146,7 @@ fieldset:disabled a.btn {
 
 .btn-link {
   font-weight: 400;
-  color: #bd5d38;
+  color: #adff2f;
   text-decoration: none;
 }
 .btn-link:hover {
@@ -3432,7 +3432,7 @@ input[type="button"].btn-block {
 .dropdown-item:active {
   color: #fff;
   text-decoration: none;
-  background-color: #bd5d38;
+  background-color: #adff2f;
 }
 .dropdown-item.disabled,
 .dropdown-item:disabled {
@@ -3775,8 +3775,8 @@ input[type="button"].btn-block {
 }
 .custom-control-input:checked ~ .custom-control-label::before {
   color: #fff;
-  border-color: #bd5d38;
-  background-color: #bd5d38;
+  border-color: #adff2f;
+  background-color: #adff2f;
 }
 .custom-control-input:focus ~ .custom-control-label::before {
   box-shadow: 0 0 0 0.2rem rgba(189, 93, 56, 0.25);
@@ -3835,8 +3835,8 @@ input[type="button"].btn-block {
 .custom-checkbox
   .custom-control-input:indeterminate
   ~ .custom-control-label::before {
-  border-color: #bd5d38;
-  background-color: #bd5d38;
+  border-color: #adff2f;
+  background-color: #adff2f;
 }
 .custom-checkbox
   .custom-control-input:indeterminate
@@ -4053,7 +4053,7 @@ input[type="button"].btn-block {
   width: 1rem;
   height: 1rem;
   margin-top: -0.25rem;
-  background-color: #bd5d38;
+  background-color: #adff2f;
   border: 0;
   border-radius: 1rem;
   -webkit-transition: background-color 0.15s ease-in-out,
@@ -4084,7 +4084,7 @@ input[type="button"].btn-block {
 .custom-range::-moz-range-thumb {
   width: 1rem;
   height: 1rem;
-  background-color: #bd5d38;
+  background-color: #adff2f;
   border: 0;
   border-radius: 1rem;
   -moz-transition: background-color 0.15s ease-in-out,
@@ -4118,7 +4118,7 @@ input[type="button"].btn-block {
   margin-top: 0;
   margin-right: 0.2rem;
   margin-left: 0.2rem;
-  background-color: #bd5d38;
+  background-color: #adff2f;
   border: 0;
   border-radius: 1rem;
   -ms-transition: background-color 0.15s ease-in-out,
