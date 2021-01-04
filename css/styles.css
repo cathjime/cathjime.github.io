@@ -200,8 +200,8 @@ pre,
 code,
 kbd,
 samp {
-  font-family: Courier, GT Pressura Mono, Maison Mono, Courier, "Liberation Mono",
-    "Courier New", monospace;
+  font-family: Courier, GT Pressura Mono, Maison Mono, Courier,
+    "Liberation Mono", "Courier New", monospace;
   font-size: 1em;
 }
 
@@ -4903,7 +4903,7 @@ input[type="button"].btn-block {
   padding: 0.5rem 0.75rem;
   margin-left: -1px;
   line-height: 1.25;
-  color: #ffff00;
+  color: #ff6347;
   background-color: #fff;
   border: 1px solid #dee2e6;
 }
@@ -4932,8 +4932,8 @@ input[type="button"].btn-block {
 .page-item.active .page-link {
   z-index: 3;
   color: #fff;
-  background-color: #ffff00;
-  border-color: #ffff00;
+  background-color: #ff6347;
+  border-color: #ff6347;
 }
 .page-item.disabled .page-link {
   color: #6c757d;
@@ -5011,7 +5011,7 @@ a.badge:focus {
 
 .badge-primary {
   color: #fff;
-  background-color: #ffff00;
+  background-color: #0000ff;
 }
 a.badge-primary:hover,
 a.badge-primary:focus {
@@ -5306,7 +5306,7 @@ a.badge-dark.focus {
   color: #fff;
   text-align: center;
   white-space: nowrap;
-  background-color: #ffff00;
+  background-color: #0000ff;
   transition: width 0.6s ease;
 }
 @media (prefers-reduced-motion: reduce) {
@@ -5398,8 +5398,8 @@ a.badge-dark.focus {
 .list-group-item.active {
   z-index: 2;
   color: #fff;
-  background-color: #ffff00;
-  border-color: #ffff00;
+  background-color: #0000ff;
+  border-color: #0000ff;
 }
 .list-group-item + .list-group-item {
   border-top-width: 0;
@@ -10059,8 +10059,8 @@ button.bg-dark:focus {
 }
 
 .text-monospace {
-  font-family: Courier, GT Pressura Mono, Maison Mono, Courier, "Liberation Mono",
-    "Courier New", monospace !important;
+  font-family: Courier, GT Pressura Mono, Maison Mono, Courier,
+    "Liberation Mono", "Courier New", monospace !important;
 }
 
 .text-justify {
