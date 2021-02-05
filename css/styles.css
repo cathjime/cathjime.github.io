@@ -72,7 +72,7 @@ section {
 
 body {
   margin: 0;
-  font-family: "Raleway", -apple-system, BlinkMacSystemFont, "Cochin", Athiti,
+  font-family: "Muli", -apple-system, BlinkMacSystemFont, "Cochin", Athiti,
     "Georgia", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
     "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 1rem;
@@ -391,9 +391,7 @@ h6,
 .h5,
 .h6 {
   margin-bottom: 0.5rem;
-  font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont,
-    "Segoe UI", Athiti, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
-    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+   font-family: 'Playfair Display', serif;
   font-weight: 700;
   line-height: 1.2;
   color: #343a40;
@@ -496,7 +494,7 @@ mark,
 
 .initialism {
   font-size: 90%;
-  text-transform: uppercase;
+  text-transform: capitalize;
 }
 
 .blockquote {
@@ -10413,7 +10411,7 @@ h3,
 h4,
 h5,
 h6 {
-  text-transform: uppercase;
+  text-transform: capitalize;
 }
 
 h1 {
